@@ -1,17 +1,16 @@
-## Foundry
+# LSP5ReceivedAssetsValidator
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+## Description
 
-Foundry consists of:
+`LSP5ReceivedAssetsValidator` is a contract focusing on managing and validating LSP5 received assets. This contract provides functionalities to interact with, validate, and retrieve information about assets as per the LSP5 standard.
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+## Features
 
-## Documentation
-
-https://book.getfoundry.sh/
+- **Fetch Assets**: Retrieve all assets associated with a contract.
+- **Validate Assets**: Check if assets are at their correct indices.
+- **Fetch Asset Types**: Get the type of each asset in the contract.
+- **Interface Support Check**: Determine if assets support a specific interface.
+- **Asset and Type Retrieval**: Fetch all assets and their respective types.
 
 ## Usage
 
