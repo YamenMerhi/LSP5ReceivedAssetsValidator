@@ -1,2 +1,5 @@
 forge-std/=node_modules/forge-std/src
 ds-test/=node_modules/ds-test/src
+@lukso/=node_modules/@lukso/
+@openzeppelin/=node_modules/@openzeppelin/
+@erc725/=node_modules/@erc725/

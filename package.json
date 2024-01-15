@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "@erc725/smart-contracts": "^7.0.0",
+    "@lukso/lsp-smart-contracts": "^0.14.0",
     "ds-test": "github:dapphub/ds-test",
     "forge-std": "github:foundry-rs/forge-std"
   }
